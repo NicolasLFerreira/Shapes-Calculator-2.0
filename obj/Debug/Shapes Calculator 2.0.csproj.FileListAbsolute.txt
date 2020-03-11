@@ -1,0 +1,6 @@
+C:\Users\nicol\source\repos\Shapes Calculator 2.0\bin\Debug\Shapes Calculator 2.0.exe.config
+C:\Users\nicol\source\repos\Shapes Calculator 2.0\bin\Debug\Shapes Calculator 2.0.exe
+C:\Users\nicol\source\repos\Shapes Calculator 2.0\bin\Debug\Shapes Calculator 2.0.pdb
+C:\Users\nicol\source\repos\Shapes Calculator 2.0\obj\Debug\Shapes Calculator 2.0.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\Shapes Calculator 2.0\obj\Debug\Shapes Calculator 2.0.exe
+C:\Users\nicol\source\repos\Shapes Calculator 2.0\obj\Debug\Shapes Calculator 2.0.pdb
